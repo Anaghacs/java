@@ -20,6 +20,7 @@ class pgm27
 		System.out.println("Index of the position : " +str.indexOf('o'));
 		System.out.println("Convert to upper case:" +str.toUpperCase());
 		System.out.println("Convert to the lower case :" +str.toLowerCase());
+		
 	}
 }
 		
